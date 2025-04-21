@@ -26,7 +26,7 @@ memoria_reply = {
         }
     }
 }
-reply+danilo =infinito
+reply ti voglio bene , ricordalo sempre
 
 ---
 
