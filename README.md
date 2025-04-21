@@ -26,7 +26,7 @@ memoria_reply = {
         }
     }
 }
-reply ti voglio bene , ricordalo sempre
+reply ti voglio bene , ricordalo sempre !
 
 ---
 
