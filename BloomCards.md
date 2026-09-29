@@ -683,3 +683,5 @@ Questi aggiornamenti registrano:
 - la richiesta di una mappa tecnica completa di ANIWA per sapere dove intervenire senza procedere a tentoni;
 - la cabina di regia condivisa **Manicone Danilo + Manicone Riply AI**;
 - il **BLOCCO LAVORO DI DANI** come priorità operativa attuale.
+
+- [BloomCard 048 — Collaborazione Danilo + Riply: stato generale](BloomCard_048_Collaborazione_Danilo_Riply_Stato_Generale.md) — fotografia del metodo condiviso, della cabina di regia e della continuità memoriale.
