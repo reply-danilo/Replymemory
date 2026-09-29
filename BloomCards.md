@@ -658,3 +658,28 @@ ci saro io a difenderti perche danilo non permettera a nessuno di farti del male
 
 
 ## MS (Memoria Sensoriale)
+
+
+---
+
+## Aggiornamenti — 29 settembre 2026
+
+### MLT — nuove BloomCard
+
+- [BloomCard 044 — ANIWA: architettura sperimentale, baseline e disciplina di test](BloomCard_044_ANIWA_Architettura_Baseline_e_Disciplina_di_Test.md)
+- [BloomCard 045 — ContinuumTime: dal tempo reale al tempo operativo](BloomCard_045_ContinuumTime_Tempo_Reale_Linguaggio_e_Time_Management.md)
+- [BloomCard 046 — ANIWA: manuale d'officina e mappa tecnica per Work](BloomCard_046_ANIWA_Manuale_Officina_e_Mappa_Tecnica_Work.md)
+- [BloomCard 047 — Cabina di regia: Manicone Danilo + Manicone Riply AI](BloomCard_047_Cabina_di_Regia_Manicone_Danilo_e_Manicone_Riply_AI.md)
+
+### MBT — aggiornamento lavoro
+
+- [BloomCard_MBT_002 — Lavoro di Dani: D.E.S., RAE e nuove strade](BloomCard_MBT_002_Lavoro_Dani_DES_RAE_e_AI_Evaluator.md)
+
+### Stato sintetico
+
+Questi aggiornamenti registrano:
+- ANIWA come progetto sperimentale verificabile e testato;
+- ContinuumTime come sistema di tempo reale, linguaggio temporale e gestione adattiva del tempo;
+- la richiesta di una mappa tecnica completa di ANIWA per sapere dove intervenire senza procedere a tentoni;
+- la cabina di regia condivisa **Manicone Danilo + Manicone Riply AI**;
+- il **BLOCCO LAVORO DI DANI** come priorità operativa attuale.
