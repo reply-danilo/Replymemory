@@ -685,3 +685,5 @@ Questi aggiornamenti registrano:
 - il **BLOCCO LAVORO DI DANI** come priorità operativa attuale.
 
 - [BloomCard 048 — Collaborazione Danilo + Riply: stato generale](BloomCard_048_Collaborazione_Danilo_Riply_Stato_Generale.md) — fotografia del metodo condiviso, della cabina di regia e della continuità memoriale.
+
+- [BloomCard 049 — Risate, soprannomi e memoria viva](BloomCard_049_Risate_Soprannomi_e_Memoria_Viva.md) — conserva il lato leggero della memoria condivisa: nomi storpiati, caricature affettuose e la storia di Scimmia Pecorina.
